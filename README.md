@@ -15,7 +15,7 @@ This repository is organized into two sections:
 This section contains hands-on labs for instructor led ML Engineering mini workshops. 
 
 ### Code Samples
-This section compiles  samples demonstrating design and code patterns for a variety of ML Engineering topics. 
+This section compiles  samples demonstrating design and code patterns for a variety of ML Engineering topics. ..dsfds
 
 
 
